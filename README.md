@@ -38,3 +38,9 @@
 | 62 | Unique Paths | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/062.py)        |Medium           |`Array` `DP`       |
 | 70 | Climbing Stairs | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/070.py)        |Medium           |`DP`       |
 | 338  | Counting Bits   | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/338.py)     |Medium           |`DP` `Bit Manipulation`  |
+
+## String
+
+| #    | Title        |Language       |Difficulty       |Tag                |
+| ---- | ------------ | ------------- | --------------- | ----------------- |
+| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/434.py) |Easy |`String`|
