@@ -22,6 +22,7 @@
 
 | #    | Title        |Language       |Difficulty       |Tag                |
 | ---- | ------------ | ------------- | --------------- | ----------------- |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/136.cpp)        |Easy           |`Hash Table` `Bit Manipulation`       |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/169.py)        |Easy           |`Array` `Divide&Conquer` `Bit Manipulation`       |
 | 268| [Missing Number](https://leetcode.com/problems/missing-number/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/268.py)   |Easy           |`Array` `Math` `Bit Manipulation`       |
 | 338  |[Counting Bits](https://leetcode.com/problems/counting-bits/description/)   | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/338.py)     |Medium           |`DP` `Bit Manipulation`  |
