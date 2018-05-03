@@ -80,10 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/jinfee/Documents/Github/LeetCode/C++/053.cpp">
-			<Option target="C__"/>
-		</Unit>
-		<Unit filename="/Users/jinfee/Documents/Github/LeetCode/C++/main.cpp">
+		<Unit filename="/Users/jinfee/Documents/Github/LeetCode/C++/050.cpp">
 			<Option target="C__"/>
 		</Unit>
 		<Unit filename="/Users/jinfee/Documents/Github/LeetCode/C++/CMakeLists.txt">

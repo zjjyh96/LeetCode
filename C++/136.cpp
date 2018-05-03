@@ -2,8 +2,6 @@
 // Created by Yinhao Jiang on 2018/5/2.
 //
 
-#include <iostream>
-#include <vector>
 
 class Solution {
 public:
