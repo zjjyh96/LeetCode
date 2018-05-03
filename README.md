@@ -11,6 +11,7 @@
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/053.cpp) |Easy           |`Array` `Divide&Conquer` `DP`       |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/055.py)        |Medium           |`Array` `Greedy`       |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/062.py)        |Medium           |`Array` `DP`       |
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/063.cpp)        |Medium           |`Array` `DP`       |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/169.py)        |Easy           |`Array` `Divide&Conquer` `Bit Manipulation`       |
 | 238| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/238.py)        |Medium           |`Array`       |
 | 268| [Missing Number](https://leetcode.com/problems/missing-number/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/268.py)   |Easy           |`Array` `Math` `Bit Manipulation`       |
@@ -41,6 +42,7 @@
 | ---- | ------------ | ------------- | --------------- | ----------------- |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/053.cpp) |Easy           |`Array` `Divide&Conquer` `DP`       |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/062.py)        |Medium           |`Array` `DP`       |
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/063.cpp)        |Medium           |`Array` `DP`       |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/070.py)        |Medium           |`DP`       |
 | 338  |[Counting Bits](https://leetcode.com/problems/counting-bits/description/)   | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/338.py)     |Medium           |`DP` `Bit Manipulation`  |
 
