@@ -57,38 +57,38 @@ include CMakeFiles/C__.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C__.dir/flags.make
 
-CMakeFiles/C__.dir/050.cpp.o: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/050.cpp.o: ../050.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jinfee/Documents/Github/LeetCode/C++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/050.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/050.cpp.o -c /Users/jinfee/Documents/Github/LeetCode/C++/050.cpp
+CMakeFiles/C__.dir/002.cpp.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/002.cpp.o: ../002.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jinfee/Documents/Github/LeetCode/C++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/002.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/002.cpp.o -c /Users/jinfee/Documents/Github/LeetCode/C++/002.cpp
 
-CMakeFiles/C__.dir/050.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/050.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jinfee/Documents/Github/LeetCode/C++/050.cpp > CMakeFiles/C__.dir/050.cpp.i
+CMakeFiles/C__.dir/002.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/002.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jinfee/Documents/Github/LeetCode/C++/002.cpp > CMakeFiles/C__.dir/002.cpp.i
 
-CMakeFiles/C__.dir/050.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/050.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jinfee/Documents/Github/LeetCode/C++/050.cpp -o CMakeFiles/C__.dir/050.cpp.s
+CMakeFiles/C__.dir/002.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/002.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jinfee/Documents/Github/LeetCode/C++/002.cpp -o CMakeFiles/C__.dir/002.cpp.s
 
-CMakeFiles/C__.dir/050.cpp.o.requires:
+CMakeFiles/C__.dir/002.cpp.o.requires:
 
-.PHONY : CMakeFiles/C__.dir/050.cpp.o.requires
+.PHONY : CMakeFiles/C__.dir/002.cpp.o.requires
 
-CMakeFiles/C__.dir/050.cpp.o.provides: CMakeFiles/C__.dir/050.cpp.o.requires
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/050.cpp.o.provides.build
-.PHONY : CMakeFiles/C__.dir/050.cpp.o.provides
+CMakeFiles/C__.dir/002.cpp.o.provides: CMakeFiles/C__.dir/002.cpp.o.requires
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/002.cpp.o.provides.build
+.PHONY : CMakeFiles/C__.dir/002.cpp.o.provides
 
-CMakeFiles/C__.dir/050.cpp.o.provides.build: CMakeFiles/C__.dir/050.cpp.o
+CMakeFiles/C__.dir/002.cpp.o.provides.build: CMakeFiles/C__.dir/002.cpp.o
 
 
 # Object files for target C__
 C___OBJECTS = \
-"CMakeFiles/C__.dir/050.cpp.o"
+"CMakeFiles/C__.dir/002.cpp.o"
 
 # External object files for target C__
 C___EXTERNAL_OBJECTS =
 
-C__: CMakeFiles/C__.dir/050.cpp.o
+C__: CMakeFiles/C__.dir/002.cpp.o
 C__: CMakeFiles/C__.dir/build.make
 C__: CMakeFiles/C__.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jinfee/Documents/Github/LeetCode/C++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable C__"
@@ -99,7 +99,7 @@ CMakeFiles/C__.dir/build: C__
 
 .PHONY : CMakeFiles/C__.dir/build
 
-CMakeFiles/C__.dir/requires: CMakeFiles/C__.dir/050.cpp.o.requires
+CMakeFiles/C__.dir/requires: CMakeFiles/C__.dir/002.cpp.o.requires
 
 .PHONY : CMakeFiles/C__.dir/requires
 

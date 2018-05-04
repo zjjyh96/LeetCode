@@ -32,6 +32,7 @@
 
 | #    | Title        |Language       |Difficulty       |Tag                |
 | ---- | ------------ | ------------- | --------------- | ----------------- |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/002.cpp)     |Medium             |`Linked List` `Math`   |
 | 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/050.cpp)     |Medium             |`Math` `Binary Search`  |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)         | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/069.py)     |Easy             |`Math` `Binary Search`  |
 | 268| [Missing Number](https://leetcode.com/problems/missing-number/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/268.py)   |Easy           |`Array` `Math` `Bit Manipulation`       |
@@ -51,3 +52,8 @@
 | #    | Title        |Language       |Difficulty       |Tag                |
 | ---- | ------------ | ------------- | --------------- | ----------------- |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/434.py) |Easy |`String`|
+
+## Linked List
+| #    | Title        |Language       |Difficulty       |Tag                |
+| ---- | ------------ | ------------- | --------------- | ----------------- |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/002.cpp)     |Medium             |`Linked List` `Math`   |
