@@ -2,6 +2,7 @@
 // Created by Yinhao Jiang on 2018/5/7.
 //
 #include <iostream>
+#include <limits.h>
 using namespace std;
 
 class Solution {
@@ -25,3 +26,10 @@ public:
         else return 0;
     }
 };
+
+int main()
+{
+    Solution obj;
+    cout<<obj.reverse(-123);
+    return 0;
+}
