@@ -36,6 +36,7 @@
 | ---- | ------------ | ------------- | --------------- | ----------------- |
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/002.cpp)     |Medium      |`Linked List` `Math`  |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/007.cpp)     |Easy        |`Math`                |
+| 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/008.cpp)     |Medium        |`Math` `String`    |
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/009.cpp)    |Easy        |`Math`                |
 | 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)                  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/050.cpp)     |Medium      |`Math` `Binary Search`|
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/description/)                 | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/066.py)    |Easy        |`Array` `Math`        |
@@ -56,6 +57,7 @@
 
 | #    | Title        |Language       |Difficulty       |Tag                |
 | ---- | ------------ | ------------- | --------------- | ----------------- |
+| 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/008.cpp)     |Medium        |`Math` `String`    |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/434.py) |Easy |`String`|
 
 ## Linked List

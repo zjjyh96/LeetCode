@@ -56,38 +56,38 @@ include CMakeFiles/C__.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C__.dir/flags.make
 
-CMakeFiles/C__.dir/009.cpp.obj: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/009.cpp.obj: ../009.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/009.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C__.dir\009.cpp.obj -c C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\009.cpp
+CMakeFiles/C__.dir/008.cpp.obj: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/008.cpp.obj: ../008.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/008.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C__.dir\008.cpp.obj -c C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\008.cpp
 
-CMakeFiles/C__.dir/009.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/009.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\009.cpp > CMakeFiles\C__.dir\009.cpp.i
+CMakeFiles/C__.dir/008.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/008.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\008.cpp > CMakeFiles\C__.dir\008.cpp.i
 
-CMakeFiles/C__.dir/009.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/009.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\009.cpp -o CMakeFiles\C__.dir\009.cpp.s
+CMakeFiles/C__.dir/008.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/008.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\008.cpp -o CMakeFiles\C__.dir\008.cpp.s
 
-CMakeFiles/C__.dir/009.cpp.obj.requires:
+CMakeFiles/C__.dir/008.cpp.obj.requires:
 
-.PHONY : CMakeFiles/C__.dir/009.cpp.obj.requires
+.PHONY : CMakeFiles/C__.dir/008.cpp.obj.requires
 
-CMakeFiles/C__.dir/009.cpp.obj.provides: CMakeFiles/C__.dir/009.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\C__.dir\build.make CMakeFiles/C__.dir/009.cpp.obj.provides.build
-.PHONY : CMakeFiles/C__.dir/009.cpp.obj.provides
+CMakeFiles/C__.dir/008.cpp.obj.provides: CMakeFiles/C__.dir/008.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\C__.dir\build.make CMakeFiles/C__.dir/008.cpp.obj.provides.build
+.PHONY : CMakeFiles/C__.dir/008.cpp.obj.provides
 
-CMakeFiles/C__.dir/009.cpp.obj.provides.build: CMakeFiles/C__.dir/009.cpp.obj
+CMakeFiles/C__.dir/008.cpp.obj.provides.build: CMakeFiles/C__.dir/008.cpp.obj
 
 
 # Object files for target C__
 C___OBJECTS = \
-"CMakeFiles/C__.dir/009.cpp.obj"
+"CMakeFiles/C__.dir/008.cpp.obj"
 
 # External object files for target C__
 C___EXTERNAL_OBJECTS =
 
-C__.exe: CMakeFiles/C__.dir/009.cpp.obj
+C__.exe: CMakeFiles/C__.dir/008.cpp.obj
 C__.exe: CMakeFiles/C__.dir/build.make
 C__.exe: CMakeFiles/C__.dir/linklibs.rsp
 C__.exe: CMakeFiles/C__.dir/objects1.rsp
@@ -100,7 +100,7 @@ CMakeFiles/C__.dir/build: C__.exe
 
 .PHONY : CMakeFiles/C__.dir/build
 
-CMakeFiles/C__.dir/requires: CMakeFiles/C__.dir/009.cpp.obj.requires
+CMakeFiles/C__.dir/requires: CMakeFiles/C__.dir/008.cpp.obj.requires
 
 .PHONY : CMakeFiles/C__.dir/requires
 
