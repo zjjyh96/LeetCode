@@ -5,9 +5,9 @@
 
 | #  | Title        |Language       |Difficulty       |Tag                |
 | ---- | ------------ | ------------- | --------------- | ----------------- |
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum/description/)      | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/001.py)        |Easy             |`Array` `Hash Table`   |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/description/)                    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/001.py)  |Easy       |`Array` `Hash Table`   |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/033.py)        |Medium           |`Array` `Binary Search`       |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/053.cpp) |Easy           |`Array` `Divide&Conquer` `DP`       |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/053.cpp)   |Easy       |`Array` `Divide&Conquer` `DP`       |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/055.py)        |Medium           |`Array` `Greedy`       |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/062.py)        |Medium           |`Array` `DP`       |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/063.cpp)        |Medium           |`Array` `DP`       |
@@ -24,10 +24,10 @@
 
 | #    | Title        |Language       |Difficulty       |Tag                |
 | ---- | ------------ | ------------- | --------------- | ----------------- |
-| 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/136.cpp)        |Easy           |`Hash Table` `Bit Manipulation`       |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/169.py)        |Easy           |`Array` `Divide&Conquer` `Bit Manipulation`       |
-| 268| [Missing Number](https://leetcode.com/problems/missing-number/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/268.py)   |Easy           |`Array` `Math` `Bit Manipulation`       |
-| 338  |[Counting Bits](https://leetcode.com/problems/counting-bits/description/)   | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/338.py)     |Medium           |`DP` `Bit Manipulation`  |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/136.cpp)  |Easy      |`Hash Table` `Bit Manipulation`       |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/169.py) |Easy      |`Array` `Divide&Conquer` `Bit Manipulation`       |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/)     | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/268.py) |Easy      |`Array` `Math` `Bit Manipulation`       |
+| 338 |[Counting Bits](https://leetcode.com/problems/counting-bits/description/)        | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/338.py) |Medium    |`DP` `Bit Manipulation`  |
 
 
 ## Math
@@ -36,6 +36,7 @@
 | ---- | ------------ | ------------- | --------------- | ----------------- |
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/002.cpp)     |Medium      |`Linked List` `Math`  |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/007.cpp)     |Easy        |`Math`                |
+| 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/009.cpp)    |Easy        |`Math`                |
 | 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)                  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/050.cpp)     |Medium      |`Math` `Binary Search`|
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/description/)                 | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/066.py)    |Easy        |`Array` `Math`        |
 | 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                     | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/069.py)    |Easy        |`Math` `Binary Search`|
