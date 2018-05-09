@@ -55,10 +55,11 @@
 
 ## String
 
-| #    | Title        |Language       |Difficulty       |Tag                |
-| ---- | ------------ | ------------- | --------------- | ----------------- |
-| 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/008.cpp)     |Medium        |`Math` `String`    |
-| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/434.py) |Easy |`String`|
+| #    | Title        |Language       |Difficulty       |Tag                |Runtime|
+| ---- | ------------ | ------------- | --------------- | ----------------- |-------|
+| 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/008.cpp)     |Medium        |`Math` `String`    |38.84%|
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/020.cpp)     |Easy        |`String` `Stack` |95.53%|
+| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/434.py) |Easy |`String`|92.24%|
 
 ## Linked List
 | #    | Title        |Language       |Difficulty       |Tag                |
