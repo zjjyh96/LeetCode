@@ -3,9 +3,10 @@
 
 ## Array
 
-| #  | Title        |Language       |Difficulty       |Tag                |
-| ---- | ------------ | ------------- | --------------- | ----------------- |
+| #    | Title        |Language       |Difficulty       |Tag                |Runtime|
+| ---- | ------------ | ------------- | --------------- | ----------------- |-------|
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/description/)                    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/001.py)  |Easy       |`Array` `Hash Table`   |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/026.py)        |Easy           |`Array` `Two Pointers`     |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/033.py)        |Medium           |`Array` `Binary Search`       |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/053.cpp)   |Easy       |`Array` `Divide&Conquer` `DP`       |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/055.py)        |Medium           |`Array` `Greedy`       |
