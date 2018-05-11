@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46b49c65-9b7d-42ac-b283-b8e6c21c9e8d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/027.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../C++/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../C++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../C++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/CMakeLists.txt" afterDir="false" />
@@ -84,11 +84,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="026.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="026.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/026.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state>
+              <caret lean-forward="true" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="027.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/027.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -97,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/001.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1083">
-              <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+              <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -133,6 +142,7 @@
         <option value="$PROJECT_DIR$/066.py" />
         <option value="$PROJECT_DIR$/217.py" />
         <option value="$PROJECT_DIR$/026.py" />
+        <option value="$PROJECT_DIR$/027.py" />
       </list>
     </option>
   </component>
@@ -529,6 +539,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -537,7 +548,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3260606" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29756796" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3018598" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -565,6 +576,34 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/066.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/217.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/026.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/066.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -697,14 +736,21 @@
     <entry file="file://$PROJECT_DIR$/001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1083">
-          <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/026.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state>
+          <caret lean-forward="true" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/027.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>

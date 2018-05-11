@@ -5,21 +5,22 @@
 
 | #    | Title        |Language       |Difficulty       |Tag                |Runtime|
 | ---- | ------------ | ------------- | --------------- | ----------------- |-------|
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum/description/)                    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/001.py)  |Easy       |`Array` `Hash Table`   |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/026.py)        |Easy           |`Array` `Two Pointers`     |
-| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/033.py)        |Medium           |`Array` `Binary Search`       |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/053.cpp)   |Easy       |`Array` `Divide&Conquer` `DP`       |
-| 55 | [Jump Game](https://leetcode.com/problems/jump-game/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/055.py)        |Medium           |`Array` `Greedy`       |
-| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/062.py)        |Medium           |`Array` `DP`       |
-| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/063.cpp)        |Medium           |`Array` `DP`       |
-| 66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/066.py)        |Easy           |`Array` `Math`       |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/169.py)        |Easy           |`Array` `Divide&Conquer` `Bit Manipulation`       |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/217.py)        |Easy           |`Array` `Hash Table`|
-| 238| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/238.py)        |Medium           |`Array`       |
-| 268| [Missing Number](https://leetcode.com/problems/missing-number/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/268.py)   |Easy           |`Array` `Math` `Bit Manipulation`       |
-| 283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/283.py)        |Easy           |`Array` `Two Pointers`       |
-| 448| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/448.cpp)        |Easy           |`Array`       |
-| 561| [Array Partition I](https://leetcode.com/problems/array-partition-i/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/561.py)|Easy           |`Array`       |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/description/)                    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/001.py)  |Easy       |`Array` `Hash Table`   |95.47%|
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/026.py)        |Easy           |`Array` `Two Pointers`     |95.22%|
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/027.py)        |Easy           |`Array` `Two Pointers`     |96.38%|
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/033.py)        |Medium           |`Array` `Binary Search`       |93.83%|
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/053.cpp)   |Easy       |`Array` `Divide&Conquer` `DP`       |100.00%|
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/055.py)        |Medium           |`Array` `Greedy`       |44.31%|
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/062.py)        |Medium           |`Array` `DP`       |41.79%|
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/063.cpp)        |Medium           |`Array` `DP`       |99.10%|
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/066.py)        |Easy           |`Array` `Math`       |95.20%|
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/169.py)        |Easy           |`Array` `Divide&Conquer` `Bit Manipulation`       |100.00%|
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/217.py)        |Easy           |`Array` `Hash Table`|99.83%|
+| 238| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/238.py)        |Medium           |`Array`       |52.21%|
+| 268| [Missing Number](https://leetcode.com/problems/missing-number/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/268.py)   |Easy           |`Array` `Math` `Bit Manipulation`       |95.78%|
+| 283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/283.py)        |Easy           |`Array` `Two Pointers`       |99.30%|
+| 448| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/448.cpp)        |Easy           |`Array`       |93.54%|
+| 561| [Array Partition I](https://leetcode.com/problems/array-partition-i/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/561.py)|Easy           |`Array`       |70.98%|
 
 ## Bit Manipulation
 
