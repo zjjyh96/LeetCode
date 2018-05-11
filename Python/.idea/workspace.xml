@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46b49c65-9b7d-42ac-b283-b8e6c21c9e8d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/027.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../C++/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../C++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../C++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/CMakeLists.txt" afterDir="false" />
@@ -96,8 +95,8 @@
       <file leaf-file-name="027.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/027.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="20" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -539,7 +538,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -749,8 +747,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/027.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
