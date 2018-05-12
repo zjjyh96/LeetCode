@@ -3,5 +3,5 @@ project(C__)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(C__ 551.cpp)
+add_executable(C__ 551.cpp 155.cpp)
 

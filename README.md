@@ -69,3 +69,8 @@
 | #    | Title        |Language       |Difficulty       |Tag                |
 | ---- | ------------ | ------------- | --------------- | ----------------- |
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/002.cpp)     |Medium             |`Linked List` `Math`   |
+
+## Stack
+| #    | Title        |Language       |Difficulty       |Tag                |Runtime|
+| ---- | ------------ | ------------- | --------------- | ----------------- |-------|
+| 155  | [Min Stack](https://leetcode.com/problems/min-stack/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/155.cpp)     |Easy     |`Stack` `Design`   |79.71%|
