@@ -29,6 +29,7 @@
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/242.cpp)        |Easy           |`Hash Table` `Sort`       |99.39%|
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/268.py)   |Easy           |`Array` `Math` `Bit Manipulation`       |95.78%|
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/283.py)        |Easy           |`Array` `Two Pointers`       |99.30%|
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/292.cpp)        |Easy          |`Brainteaser`|100.00%|
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/)        | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/338.py) |Medium    |`DP` `Bit Manipulation`  |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/434.py)    |Easy        |`String`           |92.24%|
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/448.cpp)        |Easy           |`Array`       |93.54%|

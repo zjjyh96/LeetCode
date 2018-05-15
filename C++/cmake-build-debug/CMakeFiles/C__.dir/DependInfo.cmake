@@ -4,9 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/zjjyh/Documents/GitHub/LeetCode/C++/242.cpp" "C:/Users/zjjyh/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/242.cpp.obj"
+  "/Users/jinfee/Documents/Github/LeetCode/C++/242.cpp" "/Users/jinfee/Documents/Github/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/242.cpp.o"
+  "/Users/jinfee/Documents/Github/LeetCode/C++/292.cpp" "/Users/jinfee/Documents/Github/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/292.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
