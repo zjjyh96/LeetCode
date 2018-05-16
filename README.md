@@ -24,6 +24,7 @@
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/136.cpp)  |Easy      |`Hash Table` `Bit Manipulation`       |99.40%|
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/155.cpp)     |Easy     |`Stack` `Design`   |79.71%|
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/169.py)        |Easy           |`Array` `Divide&Conquer` `Bit Manipulation`       |100.00%|
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/202.cpp)        |Easy           |`Hash Table` `Math`|85.26%|
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/217.py)        |Easy           |`Array` `Hash Table`|99.83%|
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/219.cpp)        |Easy           |`Array` `Hash Table`|65.09%|
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/238.py)        |Medium           |`Array`       |52.21%|
