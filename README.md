@@ -4,6 +4,7 @@
 | ---- | ------------ | ------------- | --------------- | ----------------- |-------|
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/description/)                    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/001.py)  |Easy       |`Array` `Hash Table`   |95.47%|
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/002.cpp)     |Medium      |`Linked List` `Math`  |38.51%|
+| 5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/005.cpp)     |Medium      |`String` `DP`  |57.04%|
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/007.cpp)     |Easy        |`Math`                |64.08%|
 | 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/008.cpp)     |Medium        |`Math` `String`    |38.84%|
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/009.cpp)    |Easy        |`Math`                |49.55%|
@@ -87,6 +88,7 @@
 
 | #    | Title        |Language       |Difficulty       |Tag                |
 | ---- | ------------ | ------------- | --------------- | ----------------- |
+| 5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/005.cpp)     |Medium      |`String` `DP`  |57.04%|
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/053.cpp) |Easy           |`Array` `Divide&Conquer` `DP`       |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/062.py)        |Medium           |`Array` `DP`       |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/063.cpp)        |Medium           |`Array` `DP`       |
@@ -97,6 +99,7 @@
 
 | #    | Title        |Language       |Difficulty       |Tag                |Runtime|
 | ---- | ------------ | ------------- | --------------- | ----------------- |-------|
+| 5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/005.cpp)     |Medium      |`String` `DP`  |57.04%|
 | 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/008.cpp)     |Medium      |`Math` `String`    |38.84%|
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/020.cpp)     |Easy        |`String` `Stack`   |95.53%|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/125.cpp)  |Easy      |`Two Pointers` `String` |95.16%|

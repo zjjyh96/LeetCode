@@ -123,6 +123,33 @@ C__/fast:
 	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/build
 .PHONY : C__/fast
 
+005.o: 005.cpp.o
+
+.PHONY : 005.o
+
+# target to build an object file
+005.cpp.o:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/005.cpp.o
+.PHONY : 005.cpp.o
+
+005.i: 005.cpp.i
+
+.PHONY : 005.i
+
+# target to preprocess a source file
+005.cpp.i:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/005.cpp.i
+.PHONY : 005.cpp.i
+
+005.s: 005.cpp.s
+
+.PHONY : 005.s
+
+# target to generate assembly for a file
+005.cpp.s:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/005.cpp.s
+.PHONY : 005.cpp.s
+
 125.o: 125.cpp.o
 
 .PHONY : 125.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... C__"
+	@echo "... 005.o"
+	@echo "... 005.i"
+	@echo "... 005.s"
 	@echo "... 125.o"
 	@echo "... 125.i"
 	@echo "... 125.s"
