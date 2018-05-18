@@ -6,23 +6,7 @@
 
 #IncludeRegexTransform: 
 
-<<<<<<< HEAD
-/Users/jinfee/Documents/Github/LeetCode/C++/005.cpp
+/Users/jinfee/Documents/Github/LeetCode/C++/028.cpp
 iostream
 -
-string
--
-
-/Users/jinfee/Documents/Github/LeetCode/C++/125.cpp
-iostream
--
-string
--
-algorithm
--
-=======
-C:/Users/zjjyh/Documents/GitHub/LeetCode/C++/202.cpp
-iostream
--
->>>>>>> 8f35f668ef350426e30fc8d03139fa154dbd02d4
 
