@@ -30,7 +30,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/217.py)        |Easy           |`Array` `Hash Table`|99.83%|
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/219.cpp)        |Easy           |`Array` `Hash Table`|65.09%|
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/238.py)        |Medium           |`Array`       |52.21%|
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/242.cpp)        |Easy           |`Hash Table` `Sort`       |99.39%|
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/242.cpp)        |Easy           |`Hash Table` `Sort`       |99.39%|
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/)            | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/263.cpp)     |Easy      |`Math`                   |77.79%|
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/268.py)   |Easy           |`Array` `Math` `Bit Manipulation`       |95.78%|
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/283.py)        |Easy           |`Array` `Two Pointers`       |99.30%|
