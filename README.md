@@ -19,8 +19,9 @@
 | 55  | [Jump Game](https://leetcode.com/problems/jump-game/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/055.py)        |Medium           |`Array` `Greedy`       |44.31%|
 | 62  | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/062.py)        |Medium           |`Array` `DP`       |41.79%|
 | 63  | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/063.cpp)        |Medium           |`Array` `DP`       |99.10%|
-| 66  | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/066.py)        |Easy           |`Array` `Math`       |95.20%|
-| 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                     | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/069.py)    |Easy        |`Math` `Binary Search`|93.52%|
+| 66  | [Plus One](https://leetcode.com/problems/plus-one/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/066.py)        |Easy           |`Array` `Math`       |95.20%|
+| 67  | [Add Binary](https://leetcode.com/problems/add-binary/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/067.py)        |Easy           |`Math` `String`|99.90%|
+| 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)        | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/069.py)    |Easy        |`Math` `Binary Search`|93.52%|
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/070.py)        |Medium           |`DP`       |96.35%|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/125.cpp)  |Easy      |`Two Pointers` `String`  |95.16%|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/136.cpp)  |Easy      |`Hash Table` `Bit Manipulation`       |99.40%|
@@ -84,6 +85,7 @@
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/009.cpp)    |Easy        |`Math`                |
 | 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)                  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/050.cpp)     |Medium      |`Math` `Binary Search`|
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/description/)                 | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/066.py)    |Easy        |`Array` `Math`        |
+| 67  | [Add Binary](https://leetcode.com/problems/add-binary/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/067.py)    |Easy        |`Math` `String`|99.90%|
 | 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                     | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/069.py)    |Easy        |`Math` `Binary Search`|
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/)           | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/263.cpp)     |Easy        |`Math`                |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/)     | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/268.py)    |Easy        |`Array` `Math` `Bit Manipulation` |
@@ -107,6 +109,7 @@
 | 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/008.cpp)     |Medium      |`Math` `String`    |38.84%|
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/020.cpp)     |Easy        |`String` `Stack`   |95.53%|
 | 28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/028.cpp)        |Easy           |`Two Pointers` `String`    |78.83%|
+| 67  | [Add Binary](https://leetcode.com/problems/add-binary/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/067.py)        |Easy           |`Math` `String`|99.90%|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/125.cpp)  |Easy      |`Two Pointers` `String` |95.16%|
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/434.py)    |Easy        |`String`           |92.24%|
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/551.cpp)     |Easy        |`String`           |70.11%|
