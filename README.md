@@ -17,6 +17,7 @@
 | 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)                  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/050.cpp)     |Medium      |`Math` `Binary Search`|12.98%|
 | 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/053.cpp)   |Easy       |`Array` `Divide&Conquer` `DP`       |100.00%|
 | 55  | [Jump Game](https://leetcode.com/problems/jump-game/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/055.py)        |Medium           |`Array` `Greedy`       |44.31%|
+| 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/058.cpp)        |Easy           |`String`   |83.54%|
 | 62  | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/062.py)        |Medium           |`Array` `DP`       |41.79%|
 | 63  | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/063.cpp)        |Medium           |`Array` `DP`       |99.10%|
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/066.py)        |Easy           |`Array` `Math`       |95.20%|
@@ -109,6 +110,7 @@
 | 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/008.cpp)     |Medium      |`Math` `String`    |38.84%|
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/020.cpp)     |Easy        |`String` `Stack`   |95.53%|
 | 28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/028.cpp)        |Easy           |`Two Pointers` `String`    |78.83%|
+| 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/058.cpp)        |Easy           |`String`   |83.54%|
 | 67  | [Add Binary](https://leetcode.com/problems/add-binary/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/067.py)        |Easy           |`Math` `String`|99.90%|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/125.cpp)  |Easy      |`Two Pointers` `String` |95.16%|
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/434.py)    |Easy        |`String`           |92.24%|
