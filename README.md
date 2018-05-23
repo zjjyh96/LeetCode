@@ -24,6 +24,7 @@
 | 67  | [Add Binary](https://leetcode.com/problems/add-binary/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/067.py)        |Easy           |`Math` `String`|99.90%|
 | 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)        | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/069.py)    |Easy        |`Math` `Binary Search`|93.52%|
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/070.py)        |Medium           |`DP`       |96.35%|
+| 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/083.cpp)  |Easy      |`Linked List`  |99.34%|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/125.cpp)  |Easy      |`Two Pointers` `String`  |95.16%|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/136.cpp)  |Easy      |`Hash Table` `Bit Manipulation`       |99.40%|
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/155.cpp)     |Easy     |`Stack` `Design`   |79.71%|
@@ -120,6 +121,7 @@
 | #    | Title        |Language       |Difficulty       |Tag                |
 | ---- | ------------ | ------------- | --------------- | ----------------- |
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/002.cpp)     |Medium             |`Linked List` `Math`   |
+| 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/083.cpp)  |Easy      |`Linked List`  |99.34%|
 
 ## Stack
 | #    | Title        |Language       |Difficulty       |Tag                |Runtime|
