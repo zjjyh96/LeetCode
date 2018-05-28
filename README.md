@@ -32,6 +32,7 @@
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/190.py)        |Easy           |`Bit Manipulation`       |51.31%|
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/191.cpp)     |Easy      |`Bit Manipulation`      |89.95%|
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/202.cpp)     |Easy      |`Hash Table` `Math`     |85.26%|
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/204.cpp)     |Easy      |`Hash Table` `Math`     |51.46%|
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/217.py)        |Easy           |`Array` `Hash Table`|99.83%|
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/219.cpp)        |Easy           |`Array` `Hash Table`|65.09%|
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/231.cpp)        |Easy           |`Math` `Bit Manipulation`|83.03%|
@@ -95,6 +96,7 @@
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/description/)                 | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/066.py)    |Easy        |`Array` `Math`        |
 | 67  | [Add Binary](https://leetcode.com/problems/add-binary/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/067.py)    |Easy        |`Math` `String`|99.90%|
 | 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                     | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/069.py)    |Easy        |`Math` `Binary Search`|
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/204.cpp)     |Easy      |`Hash Table` `Math`     |51.46%|
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/231.cpp)        |Easy           |`Math` `Bit Manipulation`|83.03%|
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/)           | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/263.cpp)     |Easy        |`Math`                |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/)     | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/268.py)    |Easy        |`Array` `Math` `Bit Manipulation` |
