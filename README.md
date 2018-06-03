@@ -4,6 +4,7 @@
 | ---- | ------------ | ------------- | --------------- | ----------------- |-------|
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/description/)                    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/001.py)    |Easy       |`Array` `Hash Table`   |95.47%|
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/002.cpp)     |Medium      |`Linked List` `Math`  |38.51%|
+| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/003.py)    |Medium           |`Hash Table` `Two Pointers`   `String`  |38.61%|
 | 5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/005.cpp)     |Medium      |`String` `DP`  |57.04%|
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/007.cpp)     |Easy        |`Math`                |64.08%|
 | 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/008.cpp)     |Medium        |`Math` `String`    |38.84%|
@@ -51,7 +52,7 @@
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/796.py)    |Easy      |               |75.88%|
 
 
-## Array
+<!-- ## Array
 
 | #    | Title        |Language       |Difficulty       |Tag                |Runtime|
 | ---- | ------------ | ------------- | --------------- | ----------------- |-------|
@@ -138,4 +139,4 @@
 ## Stack
 | #    | Title        |Language       |Difficulty       |Tag                |Runtime|
 | ---- | ------------ | ------------- | --------------- | ----------------- |-------|
-| 155  | [Min Stack](https://leetcode.com/problems/min-stack/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/155.cpp)     |Easy     |`Stack` `Design`   |79.71%|
+| 155  | [Min Stack](https://leetcode.com/problems/min-stack/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/155.cpp)     |Easy     |`Stack` `Design`   |79.71%| -->
