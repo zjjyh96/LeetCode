@@ -33,7 +33,7 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/169.py)        |Easy           |`Array` `Divide&Conquer` `Bit Manipulation`       |100.00%|
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/190.py)        |Easy           |`Bit Manipulation`       |51.31%|
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/191.cpp)     |Easy      |`Bit Manipulation`      |89.95%|
-| 200 | Number of Islands](https://leetcode.com/problems/number-of-islands/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/200.cpp)     |Medium      |`DFS` `BFS` `Union Find`     |99.91%|
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)        | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/200.cpp)     |Medium      |`DFS` `BFS` `Union Find`     |99.91%|
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/202.cpp)     |Easy      |`Hash Table` `Math`     |85.26%|
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/204.cpp)     |Easy      |`Hash Table` `Math`     |51.46%|
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/217.py)        |Easy           |`Array` `Hash Table`|99.83%|
