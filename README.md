@@ -9,6 +9,7 @@
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/007.cpp)     |Easy        |`Math`                |64.08%|
 | 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/008.cpp)     |Medium        |`Math` `String`    |38.84%|
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/009.cpp)    |Easy        |`Math`                |49.55%|
+| 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/011.cpp)    |Medium       |`Array` `Two Pointers`      |97.43%|
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/020.cpp)     |Easy        |`String` `Stack`   |95.53%|
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/026.py)        |Easy           |`Array` `Two Pointers`     |95.22%|
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/027.py)        |Easy           |`Array` `Two Pointers`     |96.38%|
@@ -141,4 +142,4 @@
 ## Stack
 | #    | Title        |Language       |Difficulty       |Tag                |Runtime|
 | ---- | ------------ | ------------- | --------------- | ----------------- |-------|
-| 155  | [Min Stack](https://leetcode.com/problems/min-stack/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/155.cpp)     |Easy     |`Stack` `Design`   |79.71%| -->
+| 155  | [Min Stack](https://leetcode.com/problems/min-stack/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/155.cpp)     |Easy     |`Stack` `Design`   |79.71%|
