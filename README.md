@@ -52,6 +52,7 @@
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/448.cpp)        |Easy           |`Array`       |93.54%|
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/551.cpp)|Easy |`String`    |70.11%|
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/561.py)    |Easy      |`Array`                  |70.98%|
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/605.cpp)|Easy |`Array`    |98.87%|
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/796.py)    |Easy      |               |75.88%|
 
 
