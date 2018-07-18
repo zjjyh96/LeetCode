@@ -26,4 +26,4 @@ class Solution(object):
         return False
 
 ans=Solution()
-print ans.rotateString("vcuszhlbtpmksjleuchmjffufrwpiddgyynfujnqblngzoogzg","fufrwpiddgyynfujnqblngzoogzgvcuszhlbtpmksjleuchmjf")
+print(ans.rotateString("vcuszhlbtpmksjleuchmjffufrwpiddgyynfujnqblngzoogzg","fufrwpiddgyynfujnqblngzoogzgvcuszhlbtpmksjleuchmjf"))
