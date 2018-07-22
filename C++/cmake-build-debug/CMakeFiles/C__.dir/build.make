@@ -56,64 +56,64 @@ include CMakeFiles/C__.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C__.dir/flags.make
 
-CMakeFiles/C__.dir/096.cpp.obj: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/096.cpp.obj: ../096.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/096.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C__.dir\096.cpp.obj -c C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\096.cpp
+CMakeFiles/C__.dir/121.cpp.obj: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/121.cpp.obj: ../121.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/121.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C__.dir\121.cpp.obj -c C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\121.cpp
 
-CMakeFiles/C__.dir/096.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/096.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\096.cpp > CMakeFiles\C__.dir\096.cpp.i
+CMakeFiles/C__.dir/121.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/121.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\121.cpp > CMakeFiles\C__.dir\121.cpp.i
 
-CMakeFiles/C__.dir/096.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/096.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\096.cpp -o CMakeFiles\C__.dir\096.cpp.s
+CMakeFiles/C__.dir/121.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/121.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\121.cpp -o CMakeFiles\C__.dir\121.cpp.s
 
-CMakeFiles/C__.dir/096.cpp.obj.requires:
+CMakeFiles/C__.dir/121.cpp.obj.requires:
 
-.PHONY : CMakeFiles/C__.dir/096.cpp.obj.requires
+.PHONY : CMakeFiles/C__.dir/121.cpp.obj.requires
 
-CMakeFiles/C__.dir/096.cpp.obj.provides: CMakeFiles/C__.dir/096.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\C__.dir\build.make CMakeFiles/C__.dir/096.cpp.obj.provides.build
-.PHONY : CMakeFiles/C__.dir/096.cpp.obj.provides
+CMakeFiles/C__.dir/121.cpp.obj.provides: CMakeFiles/C__.dir/121.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\C__.dir\build.make CMakeFiles/C__.dir/121.cpp.obj.provides.build
+.PHONY : CMakeFiles/C__.dir/121.cpp.obj.provides
 
-CMakeFiles/C__.dir/096.cpp.obj.provides.build: CMakeFiles/C__.dir/096.cpp.obj
+CMakeFiles/C__.dir/121.cpp.obj.provides.build: CMakeFiles/C__.dir/121.cpp.obj
 
 
-CMakeFiles/C__.dir/064.cpp.obj: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/064.cpp.obj: ../064.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C__.dir/064.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C__.dir\064.cpp.obj -c C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\064.cpp
+CMakeFiles/C__.dir/198.cpp.obj: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/198.cpp.obj: ../198.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C__.dir/198.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C__.dir\198.cpp.obj -c C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\198.cpp
 
-CMakeFiles/C__.dir/064.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/064.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\064.cpp > CMakeFiles\C__.dir\064.cpp.i
+CMakeFiles/C__.dir/198.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/198.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\198.cpp > CMakeFiles\C__.dir\198.cpp.i
 
-CMakeFiles/C__.dir/064.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/064.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\064.cpp -o CMakeFiles\C__.dir\064.cpp.s
+CMakeFiles/C__.dir/198.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/198.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\zjjyh\Documents\GitHub\LeetCode\C++\198.cpp -o CMakeFiles\C__.dir\198.cpp.s
 
-CMakeFiles/C__.dir/064.cpp.obj.requires:
+CMakeFiles/C__.dir/198.cpp.obj.requires:
 
-.PHONY : CMakeFiles/C__.dir/064.cpp.obj.requires
+.PHONY : CMakeFiles/C__.dir/198.cpp.obj.requires
 
-CMakeFiles/C__.dir/064.cpp.obj.provides: CMakeFiles/C__.dir/064.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\C__.dir\build.make CMakeFiles/C__.dir/064.cpp.obj.provides.build
-.PHONY : CMakeFiles/C__.dir/064.cpp.obj.provides
+CMakeFiles/C__.dir/198.cpp.obj.provides: CMakeFiles/C__.dir/198.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\C__.dir\build.make CMakeFiles/C__.dir/198.cpp.obj.provides.build
+.PHONY : CMakeFiles/C__.dir/198.cpp.obj.provides
 
-CMakeFiles/C__.dir/064.cpp.obj.provides.build: CMakeFiles/C__.dir/064.cpp.obj
+CMakeFiles/C__.dir/198.cpp.obj.provides.build: CMakeFiles/C__.dir/198.cpp.obj
 
 
 # Object files for target C__
 C___OBJECTS = \
-"CMakeFiles/C__.dir/096.cpp.obj" \
-"CMakeFiles/C__.dir/064.cpp.obj"
+"CMakeFiles/C__.dir/121.cpp.obj" \
+"CMakeFiles/C__.dir/198.cpp.obj"
 
 # External object files for target C__
 C___EXTERNAL_OBJECTS =
 
-C__.exe: CMakeFiles/C__.dir/096.cpp.obj
-C__.exe: CMakeFiles/C__.dir/064.cpp.obj
+C__.exe: CMakeFiles/C__.dir/121.cpp.obj
+C__.exe: CMakeFiles/C__.dir/198.cpp.obj
 C__.exe: CMakeFiles/C__.dir/build.make
 C__.exe: CMakeFiles/C__.dir/linklibs.rsp
 C__.exe: CMakeFiles/C__.dir/objects1.rsp
@@ -126,8 +126,8 @@ CMakeFiles/C__.dir/build: C__.exe
 
 .PHONY : CMakeFiles/C__.dir/build
 
-CMakeFiles/C__.dir/requires: CMakeFiles/C__.dir/096.cpp.obj.requires
-CMakeFiles/C__.dir/requires: CMakeFiles/C__.dir/064.cpp.obj.requires
+CMakeFiles/C__.dir/requires: CMakeFiles/C__.dir/121.cpp.obj.requires
+CMakeFiles/C__.dir/requires: CMakeFiles/C__.dir/198.cpp.obj.requires
 
 .PHONY : CMakeFiles/C__.dir/requires
 
