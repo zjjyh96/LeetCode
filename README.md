@@ -47,6 +47,7 @@
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/)            | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/263.cpp)     |Easy      |`Math`                   |77.79%|
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)            | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/264.cpp)     |Medium    |`Math`  `DP` `Heap`      |97.47%|
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/268.py)   |Easy           |`Array` `Math` `Bit Manipulation`       |95.78%|
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/279.cpp)    |Medium         |`Math` `DP` `BFS`        |61.23%|
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/283.py)        |Easy           |`Array` `Two Pointers`       |99.30%|
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/292.cpp)        |Easy          |`Brainteaser`|100.00%|
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/300.cpp)        |Medium          |`Binary Search` `DP`|56.37%|
