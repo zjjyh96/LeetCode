@@ -45,6 +45,7 @@
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/238.py)        |Medium           |`Array`       |52.21%|
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/242.cpp)        |Easy           |`Hash Table` `Sort`       |99.39%|
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/)            | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/263.cpp)     |Easy      |`Math`                   |77.79%|
+| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)            | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/264.cpp)     |Medium    |`Math`  `DP` `Heap`      |97.47%|
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/268.py)   |Easy           |`Array` `Math` `Bit Manipulation`       |95.78%|
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/283.py)        |Easy           |`Array` `Two Pointers`       |99.30%|
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/292.cpp)        |Easy          |`Brainteaser`|100.00%|
