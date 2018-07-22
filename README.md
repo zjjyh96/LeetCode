@@ -24,6 +24,7 @@
 | 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/058.cpp)        |Easy           |`String`   |83.54%|
 | 62  | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/062.py)        |Medium           |`Array` `DP`       |41.79%|
 | 63  | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/063.cpp)        |Medium           |`Array` `DP`       |99.10%|
+| 64  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/064.cpp)        |Medium           |`Array` `DP`       |100.00%|
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/066.py)        |Easy           |`Array` `Math`       |95.20%|
 | 67  | [Add Binary](https://leetcode.com/problems/add-binary/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/067.py)        |Easy           |`Math` `String`|99.90%|
 | 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)        | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/069.py)    |Easy        |`Math` `Binary Search`|93.52%|

@@ -122,6 +122,33 @@ C__/fast:
 	$(MAKE) -f CMakeFiles\C__.dir\build.make CMakeFiles/C__.dir/build
 .PHONY : C__/fast
 
+064.obj: 064.cpp.obj
+
+.PHONY : 064.obj
+
+# target to build an object file
+064.cpp.obj:
+	$(MAKE) -f CMakeFiles\C__.dir\build.make CMakeFiles/C__.dir/064.cpp.obj
+.PHONY : 064.cpp.obj
+
+064.i: 064.cpp.i
+
+.PHONY : 064.i
+
+# target to preprocess a source file
+064.cpp.i:
+	$(MAKE) -f CMakeFiles\C__.dir\build.make CMakeFiles/C__.dir/064.cpp.i
+.PHONY : 064.cpp.i
+
+064.s: 064.cpp.s
+
+.PHONY : 064.s
+
+# target to generate assembly for a file
+064.cpp.s:
+	$(MAKE) -f CMakeFiles\C__.dir\build.make CMakeFiles/C__.dir/064.cpp.s
+.PHONY : 064.cpp.s
+
 096.obj: 096.cpp.obj
 
 .PHONY : 096.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... edit_cache
 	@echo ... C__
 	@echo ... rebuild_cache
+	@echo ... 064.obj
+	@echo ... 064.i
+	@echo ... 064.s
 	@echo ... 096.obj
 	@echo ... 096.i
 	@echo ... 096.s

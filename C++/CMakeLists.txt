@@ -3,6 +3,6 @@ project(C__)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(C__ 096.cpp)
+add_executable(C__ 096.cpp 064.cpp)
 
 
