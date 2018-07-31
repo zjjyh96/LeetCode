@@ -32,6 +32,7 @@
 | 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/083.cpp)  |Easy      |`Linked List`  |99.34%|
 | 96  | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/096.cpp)  |Medium     |`DP` `Tree`  |100.00%|
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/100.cpp)  |Easy     |`Tree` `DFS` |100.00%|
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/101.cpp)  |Easy     |`Tree` `DFS` `BFS` |97.80%|
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/104.cpp)  |Easy      |`Tree` `DFS`  |98.29%|
 | 120 | [Triangle](https://leetcode.com/problems/triangle/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/120.cpp)  |Medium      |`Array` `DP`  |98.40%|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/125.cpp)  |Easy      |`Two Pointers` `String`  |95.16%|
