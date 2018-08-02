@@ -4,12 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/inhao/Documents/GitHub/LeetCode/C++/100.cpp" "/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/100.cpp.o"
-  "/Users/inhao/Documents/GitHub/LeetCode/C++/101.cpp" "/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/101.cpp.o"
-  "/Users/inhao/Documents/GitHub/LeetCode/C++/112.cpp" "/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/112.cpp.o"
-  "/Users/inhao/Documents/GitHub/LeetCode/C++/226.cpp" "/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/226.cpp.o"
+  "C:/Users/zjjyh/Documents/GitHub/LeetCode/C++/100.cpp" "C:/Users/zjjyh/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/100.cpp.obj"
+  "C:/Users/zjjyh/Documents/GitHub/LeetCode/C++/101.cpp" "C:/Users/zjjyh/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/101.cpp.obj"
+  "C:/Users/zjjyh/Documents/GitHub/LeetCode/C++/110.cpp" "C:/Users/zjjyh/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/110.cpp.obj"
+  "C:/Users/zjjyh/Documents/GitHub/LeetCode/C++/112.cpp" "C:/Users/zjjyh/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/112.cpp.obj"
+  "C:/Users/zjjyh/Documents/GitHub/LeetCode/C++/226.cpp" "C:/Users/zjjyh/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/226.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
