@@ -38,6 +38,7 @@
 | 120 | [Triangle](https://leetcode.com/problems/triangle/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/120.cpp)  |Medium      |`Array` `DP`  |98.40%|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/125.cpp)  |Easy      |`Two Pointers` `String`  |95.16%|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/136.cpp)  |Easy      |`Hash Table` `Bit Manipulation`       |99.40%|
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/152.cpp)  |Medium      |`Array` `DP`       |99.15%|
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/155.cpp)     |Easy     |`Stack` `Design`   |79.71%|
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/169.py)        |Easy           |`Array` `Divide&Conquer` `Bit Manipulation`       |100.00%|
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/190.py)        |Easy           |`Bit Manipulation`       |51.31%|
