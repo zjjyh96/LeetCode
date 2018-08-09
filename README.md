@@ -42,6 +42,7 @@
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/152.cpp)  |Medium      |`Array` `DP`       |99.15%|
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/)         | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/155.cpp)     |Easy     |`Stack` `Design`   |79.71%|
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/169.py)        |Easy           |`Array` `Divide&Conquer` `Bit Manipulation`       |100.00%|
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/171.cpp)        |Easy           |`Math`      |97.90%|
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/190.py)        |Easy           |`Bit Manipulation`       |51.31%|
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/191.cpp)     |Easy      |`Bit Manipulation`      |89.95%|
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/198.cpp)     |Easy      |`DP`      |100.00%|
