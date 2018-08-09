@@ -30,6 +30,7 @@
 | 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)        | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/069.py)    |Easy        |`Math` `Binary Search`|93.52%|
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/070.py)        |Medium           |`DP`       |96.35%|
 | 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/083.cpp)  |Easy      |`Linked List`  |99.34%|
+| 91  | [Decode Ways](https://leetcode.com/problems/decode-ways/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/091.cpp)  |Medium     |`String` `DP`  |100.00%|
 | 96  | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/096.cpp)  |Medium     |`DP` `Tree`  |100.00%|
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/100.cpp)  |Easy     |`Tree` `DFS` |100.00%|
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)       | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/101.cpp)  |Easy     |`Tree` `DFS` `BFS` |97.80%|
