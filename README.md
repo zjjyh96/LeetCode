@@ -37,6 +37,7 @@
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/104.cpp)    |Easy   |`Tree` `DFS`|98.29%|
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/)                    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/112.cpp)    |Easy   |`Tree` `DFS`|100.00%|
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/118.cpp)    |Easy   |`Array`|100.00%|
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)   | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/119.cpp)    |Easy   |`Array`|100.00%|
 | 120 | [Triangle](https://leetcode.com/problems/triangle/description/)                    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/120.cpp)    |Medium |`Array` `DP`|98.40%|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/121.cpp)    |Easy   |`Array` `DP`|98.83%|
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/122.cpp)    |Easy   |`Array` `Greedy`|98.29%|
