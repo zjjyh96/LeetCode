@@ -82,16 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/inhao/Documents/GitHub/LeetCode/C++/014.cpp">
-			<Option target="C__"/>
-		</Unit>
-		<Unit filename="/Users/inhao/Documents/GitHub/LeetCode/C++/121.cpp">
-			<Option target="C__"/>
-		</Unit>
-		<Unit filename="/Users/inhao/Documents/GitHub/LeetCode/C++/122.cpp">
-			<Option target="C__"/>
-		</Unit>
-		<Unit filename="/Users/inhao/Documents/GitHub/LeetCode/C++/172.cpp">
+		<Unit filename="/Users/inhao/Documents/GitHub/LeetCode/C++/167.cpp">
 			<Option target="C__"/>
 		</Unit>
 		<Unit filename="/Users/inhao/Documents/GitHub/LeetCode/C++/CMakeLists.txt">

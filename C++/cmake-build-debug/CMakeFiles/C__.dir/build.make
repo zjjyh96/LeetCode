@@ -57,75 +57,30 @@ include CMakeFiles/C__.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C__.dir/flags.make
 
-CMakeFiles/C__.dir/172.cpp.o: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/172.cpp.o: ../172.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/172.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/172.cpp.o -c /Users/inhao/Documents/GitHub/LeetCode/C++/172.cpp
+CMakeFiles/C__.dir/167.cpp.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/167.cpp.o: ../167.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/167.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/167.cpp.o -c /Users/inhao/Documents/GitHub/LeetCode/C++/167.cpp
 
-CMakeFiles/C__.dir/172.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/172.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/inhao/Documents/GitHub/LeetCode/C++/172.cpp > CMakeFiles/C__.dir/172.cpp.i
+CMakeFiles/C__.dir/167.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/167.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/inhao/Documents/GitHub/LeetCode/C++/167.cpp > CMakeFiles/C__.dir/167.cpp.i
 
-CMakeFiles/C__.dir/172.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/172.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/inhao/Documents/GitHub/LeetCode/C++/172.cpp -o CMakeFiles/C__.dir/172.cpp.s
-
-CMakeFiles/C__.dir/121.cpp.o: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/121.cpp.o: ../121.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C__.dir/121.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/121.cpp.o -c /Users/inhao/Documents/GitHub/LeetCode/C++/121.cpp
-
-CMakeFiles/C__.dir/121.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/121.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/inhao/Documents/GitHub/LeetCode/C++/121.cpp > CMakeFiles/C__.dir/121.cpp.i
-
-CMakeFiles/C__.dir/121.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/121.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/inhao/Documents/GitHub/LeetCode/C++/121.cpp -o CMakeFiles/C__.dir/121.cpp.s
-
-CMakeFiles/C__.dir/014.cpp.o: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/014.cpp.o: ../014.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/C__.dir/014.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/014.cpp.o -c /Users/inhao/Documents/GitHub/LeetCode/C++/014.cpp
-
-CMakeFiles/C__.dir/014.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/014.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/inhao/Documents/GitHub/LeetCode/C++/014.cpp > CMakeFiles/C__.dir/014.cpp.i
-
-CMakeFiles/C__.dir/014.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/014.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/inhao/Documents/GitHub/LeetCode/C++/014.cpp -o CMakeFiles/C__.dir/014.cpp.s
-
-CMakeFiles/C__.dir/122.cpp.o: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/122.cpp.o: ../122.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/C__.dir/122.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/122.cpp.o -c /Users/inhao/Documents/GitHub/LeetCode/C++/122.cpp
-
-CMakeFiles/C__.dir/122.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/122.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/inhao/Documents/GitHub/LeetCode/C++/122.cpp > CMakeFiles/C__.dir/122.cpp.i
-
-CMakeFiles/C__.dir/122.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/122.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/inhao/Documents/GitHub/LeetCode/C++/122.cpp -o CMakeFiles/C__.dir/122.cpp.s
+CMakeFiles/C__.dir/167.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/167.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/inhao/Documents/GitHub/LeetCode/C++/167.cpp -o CMakeFiles/C__.dir/167.cpp.s
 
 # Object files for target C__
 C___OBJECTS = \
-"CMakeFiles/C__.dir/172.cpp.o" \
-"CMakeFiles/C__.dir/121.cpp.o" \
-"CMakeFiles/C__.dir/014.cpp.o" \
-"CMakeFiles/C__.dir/122.cpp.o"
+"CMakeFiles/C__.dir/167.cpp.o"
 
 # External object files for target C__
 C___EXTERNAL_OBJECTS =
 
-C__: CMakeFiles/C__.dir/172.cpp.o
-C__: CMakeFiles/C__.dir/121.cpp.o
-C__: CMakeFiles/C__.dir/014.cpp.o
-C__: CMakeFiles/C__.dir/122.cpp.o
+C__: CMakeFiles/C__.dir/167.cpp.o
 C__: CMakeFiles/C__.dir/build.make
 C__: CMakeFiles/C__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable C__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable C__"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C__.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
