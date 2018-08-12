@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/inhao/Documents/GitHub/LeetCode/C++/014.cpp" "/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/014.cpp.o"
   "/Users/inhao/Documents/GitHub/LeetCode/C++/121.cpp" "/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/121.cpp.o"
+  "/Users/inhao/Documents/GitHub/LeetCode/C++/122.cpp" "/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/122.cpp.o"
   "/Users/inhao/Documents/GitHub/LeetCode/C++/172.cpp" "/Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/C__.dir/172.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

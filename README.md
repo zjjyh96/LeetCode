@@ -38,6 +38,7 @@
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/)                    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/112.cpp)    |Easy   |`Tree` `DFS`|100.00%|
 | 120 | [Triangle](https://leetcode.com/problems/triangle/description/)                    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/120.cpp)    |Medium |`Array` `DP`|98.40%|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/121.cpp)    |Easy   |`Array` `DP`|98.83%|
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/122.cpp)    |Easy   |`Array` `Greedy`|98.29%|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/125.cpp)    |Easy   |`Two Pointers` `String`|95.16%|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/136.cpp)    |Easy   |`Hash Table` `Bit Manipulation`|99.40%|
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/152.cpp)    |Medium |`Array` `DP`|99.15%|
