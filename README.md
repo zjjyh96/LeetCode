@@ -45,6 +45,7 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/125.cpp)    |Easy   |`Two Pointers` `String`|95.16%|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/136.cpp)    |Easy   |`Hash Table` `Bit Manipulation`|99.40%|
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/144.cpp)    |Medium |`Stack` `Tree`|100.00%|
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/145.cpp)    |Medium |`Stack` `Tree`|100.00%|
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/152.cpp)    |Medium |`Array` `DP`|99.15%|
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/)                  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/155.cpp)    |Easy   |`Stack` `Design`|79.71%|
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/167.cpp)    |Easy   |`Array` `Two Pointers` `Binary Search`|98.52%|
