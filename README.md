@@ -27,6 +27,7 @@
 | 64  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/064.cpp)    |Medium |`Array` `DP`|100.00%|
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/description/)                    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/066.py)   |Easy   |`Array` `Math`|95.20%|
 | 67  | [Add Binary](https://leetcode.com/problems/add-binary/description/)                | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/067.py)   |Easy   |`Math` `String`|99.90%|
+| 68  | [Text Justification](https://leetcode.com/problems/text-justification/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/068.cpp)    |Hard   |`String`|100.00%|
 | 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                        | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/069.py)   |Easy   |`Math` `Binary Search`|93.52%|
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)      | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/070.py)   |Medium |`DP`|96.35%|
 | 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/083.cpp)    |Easy   |`Linked List`|99.34%|
