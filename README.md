@@ -80,6 +80,7 @@
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/448.cpp)    |Easy   |`Array`|93.54%|
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/461.cpp)    |Easy   |`Bit Manipulation`|100.00%|
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/551.cpp)    |Easy   |`String`|70.11%|
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/560.cpp)    |Medium |`Array` `Hash Table`|12.14%|
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/)  | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/561.py)   |Easy   |`Array`|70.98%|
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/605.cpp)    |Easy   |`Array`|98.87%|
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/771.cpp)    |Easy   |`Hash Table`|99.12%|
