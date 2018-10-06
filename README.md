@@ -64,7 +64,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/217.py)   |Easy   |`Array` `Hash Table`|99.83%|
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/219.cpp)    |Easy   |`Array` `Hash Table`|65.09%|
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/226.cpp)    |Easy   |`Tree` |100.00%|
-| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/)            | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/231.cpp)    |Easy   |`Math` `Bit Manipulation`|83.03%|
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/)            | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/231.cpp)    |Easy   |`Math` `Bit Manipulation`|97.64%|
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/238.py)   |Medium |`Array`|52.21%|
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/242.cpp)    |Easy   |`Hash Table` `Sort`|99.39%|
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/description/)                | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/258.cpp)    |Easy   |`Math`|98.02%|
