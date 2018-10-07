@@ -45,6 +45,7 @@
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/122.cpp)    |Easy   |`Array` `Greedy`|98.29%|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/125.cpp)    |Easy   |`Two Pointers` `String`|95.16%|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/136.cpp)    |Easy   |`Hash Table` `Bit Manipulation`|99.40%|
+| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/137.cpp)    |Medium |`Bit Manipulation`|77.87%|
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/144.cpp)    |Medium |`Stack` `Tree`|100.00%|
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/145.cpp)    |Medium |`Stack` `Tree`|100.00%|
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/152.cpp)    |Medium |`Array` `DP`|99.15%|
@@ -54,6 +55,7 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/169.py)   |Easy   |`Array` `Divide&Conquer` `Bit Manipulation`|100.00%|
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/171.cpp)    |Easy   |`Math`|97.90%|
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/172.cpp)    |Easy   |`Math`|100.00%|
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/179.cpp)    |Medium |`Sort`|31.42%|
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)            | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/190.py)   |Easy   |`Bit Manipulation`|51.31%|
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/191.cpp)    |Easy   |`Bit Manipulation`|89.95%|
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/)            | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/198.cpp)    |Easy   |`DP`|100.00%|
@@ -89,6 +91,12 @@
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/)          | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/796.py)   |Easy   |       |75.88%|
 
 ## Notes
+### 20181006
+#### 136. Single Number
+
+#### 137. Single Number II
+
+#### 260. Single Number III
 
 ### 20181005
 #### 556. Next Greater Element III
