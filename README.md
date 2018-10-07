@@ -44,6 +44,7 @@
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/121.cpp)    |Easy   |`Array` `DP`|98.83%|
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/122.cpp)    |Easy   |`Array` `Greedy`|98.29%|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/125.cpp)    |Easy   |`Two Pointers` `String`|95.16%|
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/134.cpp)    |Medium |`Greedy`|20.39%|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/136.cpp)    |Easy   |`Hash Table` `Bit Manipulation`|99.40%|
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/137.cpp)    |Medium |`Bit Manipulation`|77.87%|
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/144.cpp)    |Medium |`Stack` `Tree`|100.00%|
