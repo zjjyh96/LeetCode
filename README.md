@@ -93,12 +93,9 @@
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/)          | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/796.py)   |Easy   |       |75.88%|
 
 ## Notes
-### 20181006
-#### 136. Single Number
-
-#### 137. Single Number II
-
-#### 260. Single Number III
+### 20181009
+#### 31. Next Permutation
+跟 556. Next Greater Element III 一模一样。。。
 
 ### 20181005
 #### 556. Next Greater Element III
@@ -106,4 +103,5 @@
 1. 首先寻找最后连续递减的数字，存入array。因为这些数已经是自己的局部最大了，所以下一个更大的数需要这些数前面一位的参与。
 2. 在这些数里找到正好比前一位更大的数字，交换。我们需要的数应该是这个新的前置位开始最小的数。
 3. 将array中的数递增排序，直接连接到之前截断的部分后面。
+
 P.S.题目要求32-bit int，最简单的处理方法就是自己把范围扩展到long，然后手动比较判断是否越界。
