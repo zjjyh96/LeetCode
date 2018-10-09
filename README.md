@@ -14,6 +14,7 @@
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/026.py)   |Easy   |`Array` `Two Pointers`     |95.22%|
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/description/)        | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/027.py)   |Easy   |`Array` `Two Pointers`|96.38%|
 | 28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/028.cpp)    |Easy   |`Two Pointers` `String`|78.83%|
+| 31  | [Next Permutation](https://leetcode.com/problems/next-permutation/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/031.cpp)    |Medium |`Array`|99.30%|
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/033.py)   |Medium |`Array` `Binary Search`|93.83%|
 | 34  | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/034.cpp)    |Medium |`Array` `Binary Search`|86.74%|
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/035.py)   |Easy   |`Array` `Binary Search`|99.96%|
