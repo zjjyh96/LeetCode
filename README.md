@@ -82,6 +82,7 @@
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/300.cpp)    |Medium |`Binary Search` `DP`|56.37%|
 | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/336.cpp)    |Hard   |`Hash Table` `String` `Trie`|0.00%|
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/)          | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/338.py)   |Medium |`DP` `Bit Manipulation`|87.58%|
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/)        | [C++](https://github.com/zjjyh96/LeetCode/blob/master//C%2B%2B/344.cpp)   |Easy   |`Two Pointers` `String`|100.00%|
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/434.py)   |Easy   |`String`|92.24%|
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/448.cpp)    |Easy   |`Array`|93.54%|
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/461.cpp)    |Easy   |`Bit Manipulation`|100.00%|
