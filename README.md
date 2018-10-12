@@ -99,14 +99,11 @@
 ### 20181011
 #### 475. Heaters
 这题跟饭饭还有hanfei同学讨论之后得到了三种解法
-Step 1：对Houses和Heaters都进行排序 O(nlogn+mlogm)
-Step 2：
-
-（我）Way1: 对每个House求离他最近的Heater（这里可以用二分），然后统计距离的Max就是解 O(nlogm);
-
-（hanfei）Way2: 同时遍历house和heater，对于每一个对于每一个house，只需要比较相邻的两个heater哪个更近就好，是一个online的算法O(n+m);
-
-（饭饭）Way3: 遍历heaters，对于每两个heaters，用二分寻找其最中心的那个house，只需要比较最中心的哪个更近就可以，所以是O(m+logn);
+1. Step 1：对Houses和Heaters都进行排序 O(nlogn+mlogm)
+2. Step 2：
+ - （我）Way1: 对每个House求离他最近的Heater（这里可以用二分），然后统计距离的Max就是解 O(nlogm);
+ - （hanfei）Way2: 同时遍历house和heater，对于每一个对于每一个house，只需要比较相邻的两个heater哪个更近就好，是一个online的算法O(n+m);
+ - （饭饭）Way3: 遍历heaters，对于每两个heaters，用二分寻找其最中心的那个house，只需要比较最中心的哪个更近就可以，所以是O(m+logn);
 
 
 ### 20181009
