@@ -59,6 +59,7 @@
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/171.cpp)    |Easy   |`Math`|97.90%|
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/172.cpp)    |Easy   |`Math`|100.00%|
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/179.cpp)    |Medium |`Sort`|31.42%|
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/189.cpp)    |Easy   |`Array` |100.00%|
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)            | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/190.py)   |Easy   |`Bit Manipulation`|51.31%|
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/191.cpp)    |Easy   |`Bit Manipulation`|89.95%|
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/)            | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/198.cpp)    |Easy   |`DP`|100.00%|
@@ -101,9 +102,9 @@
 这题跟饭饭还有hanfei同学讨论之后得到了三种解法
 1. Step 1：对Houses和Heaters都进行排序 O(nlogn+mlogm)
 2. Step 2：
- - （我）Way1: 对每个House求离他最近的Heater（这里可以用二分），然后统计距离的Max就是解 O(nlogm);
- - （hanfei）Way2: 同时遍历house和heater，对于每一个对于每一个house，只需要比较相邻的两个heater哪个更近就好，是一个online的算法O(n+m);
- - （饭饭）Way3: 遍历heaters，对于每两个heaters，用二分寻找其最中心的那个house，只需要比较最中心的哪个更近就可以，所以是O(m+logn);
+  - （我）Way1: 对每个House求离他最近的Heater（这里可以用二分），然后统计距离的Max就是解 O(nlogm);
+  - （hanfei）Way2: 同时遍历house和heater，对于每一个对于每一个house，只需要比较相邻的两个heater哪个更近就好，是一个online的算法O(n+m);
+  - （饭饭）Way3: 遍历heaters，对于每两个heaters，用二分寻找其最中心的那个house，只需要比较最中心的哪个更近就可以，所以是O(m+logn);
 
 
 ### 20181009
