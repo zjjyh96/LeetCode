@@ -94,6 +94,7 @@
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/)  | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/561.py)   |Easy   |`Array`|70.98%|
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/605.cpp)    |Easy   |`Array`|98.87%|
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/697.cpp)    |Easy   |`Array`|20.86%|
+| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/717.cpp)    |Easy   |`Array`|97.87%|
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/771.cpp)    |Easy   |`Hash Table`|99.12%|
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/)          | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/796.py)   |Easy   |       |75.88%|
 
