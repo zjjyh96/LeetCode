@@ -74,6 +74,7 @@
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/)            | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/231.cpp)    |Easy   |`Math` `Bit Manipulation`|97.64%|
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/238.py)   |Medium |`Array`|52.21%|
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/242.cpp)    |Easy   |`Hash Table` `Sort`|99.39%|
+| 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/252.cpp)    |Easy   |`Sort`  |100.00%|
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/description/)                | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/258.cpp)    |Easy   |`Math`|98.02%|
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/)              | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/263.cpp)    |Easy   |`Math`|77.79%|
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)        | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/264.cpp)    |Medium |`Math`  `DP` `Heap`|97.47%|
