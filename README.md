@@ -33,6 +33,7 @@
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)      | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/070.py)   |Medium |`DP`|96.35%|
 | 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/083.cpp)    |Easy   |`Linked List`|99.34%|
 | 84  | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/084.cpp)    |Hard   |`Array` `Stack`|13.75%|
+| 86  | [Partition List](https://leetcode.com/problems/partition-list/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/086.cpp)    |Easy   |`Linked List` `Two Pointers`|100.00%|
 | 91  | [Decode Ways](https://leetcode.com/problems/decode-ways/description/)              | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/091.cpp)    |Medium |`String` `DP`  |100.00%|
 | 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/094.cpp)    |Medium |`Hash Table` `Stack` `Tree`|100.00%|
 | 96  | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/096.cpp)    |Medium |`DP` `Tree`|100.00%|
@@ -67,6 +68,7 @@
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/200.cpp)    |Medium |`DFS` `BFS` `Union Find`|99.91%|
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/)            | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/202.cpp)    |Easy   |`Hash Table` `Math`|85.26%|
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/description/)            | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/204.cpp)    |Easy   |`Hash Table` `Math`|51.46%|
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)            | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/209.cpp)    |Medium |`Array` `Two Pointers` `Binary Search`|1.80%|
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/213.cpp)    |Medium |`DP`    |100.00%|
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/217.py)   |Easy   |`Array` `Hash Table`|99.83%|
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/219.cpp)    |Easy   |`Array` `Hash Table`|65.09%|
