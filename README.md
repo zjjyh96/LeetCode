@@ -31,6 +31,7 @@
 | 68  | [Text Justification](https://leetcode.com/problems/text-justification/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/068.cpp)    |Hard   |`String`|100.00%|
 | 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                        | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/069.py)   |Easy   |`Math` `Binary Search`|93.52%|
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)      | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/070.py)   |Medium |`DP`|96.35%|
+| 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/075.cpp)    |Medium |`Array` `Two Pointers` `Sort`|100.00%|
 | 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/083.cpp)    |Easy   |`Linked List`|99.34%|
 | 84  | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/084.cpp)    |Hard   |`Array` `Stack`|13.75%|
 | 86  | [Partition List](https://leetcode.com/problems/partition-list/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/086.cpp)    |Easy   |`Linked List` `Two Pointers`|100.00%|
@@ -109,6 +110,10 @@
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/)          | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/796.py)   |Easy   |       |75.88%|
 
 ## Notes
+### 20181106
+#### 75. Sort Colors
+这题要求用one pass的O(n)来实现，做法是双指针，一遍scan，如果是0就和left交换，是2就和right交换。这里要注意，因为是从左往右scan，所以退出条件是i<=right，为了保证i>=left，在scan的时候要同时i++和left++，但是和右交换只要right--就行。
+
 ### 20181011
 #### 475. Heaters
 这题跟饭饭还有hanfei同学讨论之后得到了三种解法
