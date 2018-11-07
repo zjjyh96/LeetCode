@@ -103,6 +103,7 @@
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/581.cpp)    |Easy   |`Array`|18.85%|
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/605.cpp)    |Easy   |`Array`|98.87%|
 | 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/658.cpp)    |Medium |`Binary Search`|48.73%|
+| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/680.cpp)    |Easy   |`String`|12.25%|
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/697.cpp)    |Easy   |`Array`|20.86%|
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/717.cpp)    |Easy   |`Array`|97.87%|
 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/723.cpp)    |Medium |`Array``Two Pointers`|77.14%|
