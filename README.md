@@ -108,9 +108,14 @@
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/717.cpp)    |Easy   |`Array`|97.87%|
 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/723.cpp)    |Medium |`Array``Two Pointers`|77.14%|
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/771.cpp)    |Easy   |`Hash Table`|99.12%|
-| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/)          | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/796.py)   |Easy   |       |75.88%|
+| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/)          | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/796.py)   |Easy   |        |75.88%|
+| 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/929.cpp)    |Easy   |`String`|98.82%|
 
 ## Notes
+### 20181107
+#### 929. Unique Email Addresses
+这是一道OA原题（看hanfei同学做过）熟悉一下String.find的用法，找不到的话返回的是string::npos而不是-1。
+
 ### 20181106
 #### 75. Sort Colors
 这题要求用one pass的O(n)来实现，做法是双指针，一遍scan，如果是0就和left交换，是2就和right交换。这里要注意，因为是从左往右scan，所以退出条件是i<=right，为了保证i>=left，在scan的时候要同时i++和left++，但是和右交换只要right--就行。
