@@ -108,6 +108,7 @@
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/697.cpp)    |Easy   |`Array`|20.86%|
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/709.cpp)    |Easy   |`String`|100.00%|
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/717.cpp)    |Easy   |`Array`|97.87%|
+| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/728.cpp)    |Easy   |`Math` |100.00%|
 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/723.cpp)    |Medium |`Array``Two Pointers`|77.14%|
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/771.cpp)    |Easy   |`Hash Table`|99.12%|
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/)          | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/796.py)   |Easy   |        |75.88%|
