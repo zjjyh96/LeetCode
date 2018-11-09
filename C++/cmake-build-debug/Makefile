@@ -150,6 +150,33 @@ C__/fast:
 	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/832.cpp.s
 .PHONY : 832.cpp.s
 
+867.o: 867.cpp.o
+
+.PHONY : 867.o
+
+# target to build an object file
+867.cpp.o:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/867.cpp.o
+.PHONY : 867.cpp.o
+
+867.i: 867.cpp.i
+
+.PHONY : 867.i
+
+# target to preprocess a source file
+867.cpp.i:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/867.cpp.i
+.PHONY : 867.cpp.i
+
+867.s: 867.cpp.s
+
+.PHONY : 867.s
+
+# target to generate assembly for a file
+867.cpp.s:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/867.cpp.s
+.PHONY : 867.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... 832.o"
 	@echo "... 832.i"
 	@echo "... 832.s"
+	@echo "... 867.o"
+	@echo "... 867.i"
+	@echo "... 867.s"
 .PHONY : help
 
 
