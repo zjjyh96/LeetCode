@@ -111,6 +111,7 @@
 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/723.cpp)    |Medium |`Array``Two Pointers`|77.14%|
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/771.cpp)    |Easy   |`Hash Table`|99.12%|
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/)          | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/796.py)   |Easy   |        |75.88%|
+| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/832.cpp)    |Easy   |`Array`|26.73%|
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/905.cpp)    |Easy   |`Array` |97.70%|
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/929.cpp)    |Easy   |`String`|98.82%|
 
