@@ -53,6 +53,7 @@
 | 135 | [Candy](https://leetcode.com/problems/candy/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/135.cpp)    |Hard   |`Greedy`|98.93%|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/136.cpp)    |Easy   |`Hash Table` `Bit Manipulation`|99.40%|
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/137.cpp)    |Medium |`Bit Manipulation`|77.87%|
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/141.cpp)    |Easy   |`Linked List` `Two Pointers`|57.90%|
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/144.cpp)    |Medium |`Stack` `Tree`|100.00%|
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/145.cpp)    |Medium |`Stack` `Tree`|100.00%|
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/152.cpp)    |Medium |`Array` `DP`|99.15%|
