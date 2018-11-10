@@ -90,6 +90,7 @@
 | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/336.cpp)    |Hard   |`Hash Table` `String` `Trie`|0.00%|
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/)          | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/338.py)   |Medium |`DP` `Bit Manipulation`|87.58%|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/)        | [C++](https://github.com/zjjyh96/LeetCode/blob/master//C%2B%2B/344.cpp)   |Easy   |`Two Pointers` `String`|100.00%|
+| 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)        | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/406.cpp)    |Medium |`Greedy`|21.96%|
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/434.py)   |Easy   |`String`|92.24%|
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/448.cpp)    |Easy   |`Array`|93.54%|
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/461.cpp)    |Easy   |`Bit Manipulation`|100.00%|
@@ -118,6 +119,10 @@
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/929.cpp)    |Easy   |`String`|98.82%|
 
 ## Notes
+### 20181110
+#### 406. Queue Reconstruction by Height
+这是一题标准的Greedy。当前最小的数字前面一定所有的数字都比他小，于是就能确定他的位置。每次取当前最小的放进去即可。可以用sort自定义一个compare的规则，这样排序比较快。
+
 ### 20181107
 #### 929. Unique Email Addresses
 这是一道OA原题（看hanfei同学做过）熟悉一下String.find的用法，找不到的话返回的是string::npos而不是-1。
