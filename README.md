@@ -18,6 +18,7 @@
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)| [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/033.py)   |Medium |`Array` `Binary Search`|93.83%|
 | 34  | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/034.cpp)    |Medium |`Array` `Binary Search`|86.74%|
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/035.py)   |Easy   |`Array` `Binary Search`|99.96%|
+| 45  | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)                     | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/045.cpp)    |Hard   |`Array` `Greedy` |98.25%|
 | 49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)        | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/049.py)   |Medium |`Hash Table` `String`|20.61%|
 | 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)                     | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/050.cpp)    |Medium |`Math` `Binary Search`|12.98%|
 | 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/053.cpp)    |Easy   |`Array` `Divide&Conquer` `DP`|100.00%|
