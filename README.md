@@ -23,6 +23,7 @@
 | 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)                     | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/050.cpp)    |Medium |`Math` `Binary Search`|12.98%|
 | 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/053.cpp)    |Easy   |`Array` `Divide&Conquer` `DP`|100.00%|
 | 55  | [Jump Game](https://leetcode.com/problems/jump-game/description/)                  | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/055.py)   |Medium |`Array` `Greedy`|44.31%|
+| 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/056.cpp)    |Medium |`Sort` `Array`|99.23%|
 | 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/058.cpp)    |Easy   |`String`|83.54%|
 | 62  | [Unique Paths](https://leetcode.com/problems/unique-paths/description/)            | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/062.py)   |Medium |`Array` `DP`|41.79%|
 | 63  | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)      | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/063.cpp)    |Medium |`Array` `DP`|99.10%|
