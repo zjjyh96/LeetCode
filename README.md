@@ -119,6 +119,7 @@
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/)          | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/796.py)   |Easy   |        |75.88%|
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/832.cpp)    |Easy   |`Array` |26.73%|
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/867.cpp)    |Easy   |`Array` |74.29%|
+| 904 | [Sort Array By Parity](https://leetcode.com/problems/fruit-into-baskets/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/904.cpp)    |Medium   |`Two Pointers` |53.89%|
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/905.cpp)    |Easy   |`Array` |97.70%|
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/929.cpp)    |Easy   |`String`|98.82%|
 
