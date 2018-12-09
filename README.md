@@ -90,7 +90,8 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)              | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/283.py)   |Easy   |`Array` `Two Pointers`|99.30%|
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/description/)                    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/292.cpp)    |Easy   |`Brainteaser`|100.00%|
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/300.cpp)    |Medium |`Binary Search` `DP`|56.37%|
-| 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/336.cpp)    |Hard   |`Hash Table` `String` `Trie`|0.00%|
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/)                          | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/322.cpp)    |Medium |`DP`|38.32%|
+| 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/)    | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/336.cpp)    |Hard   |`Hash Table` `String` `Trie`|0.00%|
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/)          | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/338.py)   |Medium |`DP` `Bit Manipulation`|87.58%|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/)        | [C++](https://github.com/zjjyh96/LeetCode/blob/master//C%2B%2B/344.cpp)   |Easy   |`Two Pointers` `String`|100.00%|
 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)        | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/406.cpp)    |Medium |`Greedy`|21.96%|
