@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/inhao/Documents/GitHub/LeetCode/C++
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/inhao/Desktop/C++
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug
+-- Build files have been written to: /Users/inhao/Desktop/C++/cmake-build-debug
