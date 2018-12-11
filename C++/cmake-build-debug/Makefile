@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/inhao/Desktop/C++
+CMAKE_SOURCE_DIR = /Users/inhao/Documents/GitHub/LeetCode/C++
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/inhao/Desktop/C++/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/inhao/Desktop/C++/cmake-build-debug/CMakeFiles /Users/inhao/Desktop/C++/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles /Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/inhao/Desktop/C++/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/inhao/Documents/GitHub/LeetCode/C++/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,32 +123,32 @@ C__/fast:
 	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/build
 .PHONY : C__/fast
 
-twitter.o: twitter.cpp.o
+174.o: 174.cpp.o
 
-.PHONY : twitter.o
+.PHONY : 174.o
 
 # target to build an object file
-twitter.cpp.o:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/twitter.cpp.o
-.PHONY : twitter.cpp.o
+174.cpp.o:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/174.cpp.o
+.PHONY : 174.cpp.o
 
-twitter.i: twitter.cpp.i
+174.i: 174.cpp.i
 
-.PHONY : twitter.i
+.PHONY : 174.i
 
 # target to preprocess a source file
-twitter.cpp.i:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/twitter.cpp.i
-.PHONY : twitter.cpp.i
+174.cpp.i:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/174.cpp.i
+.PHONY : 174.cpp.i
 
-twitter.s: twitter.cpp.s
+174.s: 174.cpp.s
 
-.PHONY : twitter.s
+.PHONY : 174.s
 
 # target to generate assembly for a file
-twitter.cpp.s:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/twitter.cpp.s
-.PHONY : twitter.cpp.s
+174.cpp.s:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/174.cpp.s
+.PHONY : 174.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... C__"
-	@echo "... twitter.o"
-	@echo "... twitter.i"
-	@echo "... twitter.s"
+	@echo "... 174.o"
+	@echo "... 174.i"
+	@echo "... 174.s"
 .PHONY : help
 
 

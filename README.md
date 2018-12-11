@@ -65,6 +65,7 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/)    | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/169.py)   |Easy   |`Array` `Divide&Conquer` `Bit Manipulation`|100.00%|
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/171.cpp)    |Easy   |`Math`|97.90%|
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/172.cpp)    |Easy   |`Math`|100.00%|
+| 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/174.cpp)    |Hard   |`Binary Search` `DP`|99.43%|
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/179.cpp)    |Medium |`Sort`|31.42%|
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/)| [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/189.cpp)    |Easy   |`Array` |100.00%|
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)            | [Python](https://github.com/zjjyh96/LeetCode/blob/master/Python/190.py)   |Easy   |`Bit Manipulation`|51.31%|
@@ -125,6 +126,10 @@
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/)  | [C++](https://github.com/zjjyh96/LeetCode/blob/master/C%2B%2B/929.cpp)    |Easy   |`String`|98.82%|
 
 ## Notes
+### 20181210
+#### 174. Dungeon Game
+这题地牢是一题hard的DP题，思路应该是从右下角向左上角DP。如果从左上往右下记录随时的hp和路径最小hp的话，还是保证当前选择了路径最小hp，以后还是路径最小。如果从右下往左上推演，只需要保证每一步起码hp有1就可以了。状态转移方程：need=min(hp[i+1][j], hp[i][j+1]) - dungeon[i][j]; （先记录要从ij往下或者往右走，需要的最少生命值是多少）hp[i][j] = max(1, need); (如果需要少于1的生命值就可以进入ij，就设为需要1的生命值)。这里还有一个trick，原本需要先处理两个单列的数据，但是多设置两格为1就可以省掉那两个循环，详情看代码。
+
 ### 20181110
 #### 406. Queue Reconstruction by Height
 这是一题标准的Greedy。当前最小的数字前面一定所有的数字都比他小，于是就能确定他的位置。每次取当前最小的放进去即可。可以用sort自定义一个compare的规则，这样排序比较快。

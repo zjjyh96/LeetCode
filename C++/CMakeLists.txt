@@ -1,8 +1,6 @@
-cmake_minimum_required(VERSION 3.9)
+cmake_minimum_required(VERSION 3.13)
 project(C__)
 
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 14)
 
-add_executable(C__ 832.cpp 867.cpp 728.cpp)
-
-
+add_executable(C__ 174.cpp)
